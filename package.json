@@ -1,0 +1,22 @@
+{
+  "name": "class1exe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcstl95/class1exe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcstl95/class1exe/issues"
+  },
+  "homepage": "https://github.com/tcstl95/class1exe#readme",
+  "dependencies": {
+    "consolelog": "^2.1.3"
+  }
+}
